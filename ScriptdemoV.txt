@@ -58,13 +58,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
   end
   })
   AddButton(Tab1, {
-     Name = "Pocket Hub",
+     Name = "Banana lite ",
     Callback = function()
-	  local Settings = {
-  JoinTeam = "Pirates"; -- Pirates/Marines
-  Translator = true; -- true/false
-}
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/minhloc900/Banana.lite_byML/refs/heads/main/Banana%20Hub%20.txt"))()
   end
   })
