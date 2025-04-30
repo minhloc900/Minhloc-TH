@@ -58,8 +58,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
   end
   })
   AddButton(Tab1, {
-     Name = "Maru lite ",
+     Name = "Min lite ",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercontent.com/minhloc900/Maru-lite/refs/heads/main/maru-hub-src.txt"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/minhloc900/Min-lite/refs/heads/main/MinGamingNewVietSub(1).txt"))()
   end
   })
